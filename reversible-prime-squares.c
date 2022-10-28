@@ -1,9 +1,10 @@
-/*#================================================
+/*
+#================================================
 # @writer: 'Mashai Pelei
 # @aim   : to check for reversible prime squares.
 # @date  : October 2022
 #@email  : mayshaypeley99@gmail.com
-
+*/
 
 #include<stdio.h>
 #include<stdbool.h>
